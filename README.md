@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Victoira Cimpu</h1>
+<h1 align="center">Hello 👋, I'm Victoria Cimpu</h1>
 <h3 align="center">A Passionate and Curious Software Engineering Student</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Victoria-Cimpu" alt="Victoria-Cimpu" /></a> </p>
